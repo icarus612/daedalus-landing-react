@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/icarus612/react-icarus/static/css/main.2f4637d1.chunk.css",
+    "main.js": "/icarus612/react-icarus/static/js/main.042b1a81.chunk.js",
+    "main.js.map": "/icarus612/react-icarus/static/js/main.042b1a81.chunk.js.map",
+    "runtime~main.js": "/icarus612/react-icarus/static/js/runtime~main.e0ff1420.js",
+    "runtime~main.js.map": "/icarus612/react-icarus/static/js/runtime~main.e0ff1420.js.map",
+    "static/js/2.c58ee2cd.chunk.js": "/icarus612/react-icarus/static/js/2.c58ee2cd.chunk.js",
+    "static/js/2.c58ee2cd.chunk.js.map": "/icarus612/react-icarus/static/js/2.c58ee2cd.chunk.js.map",
+    "index.html": "/icarus612/react-icarus/index.html",
+    "precache-manifest.dbd67eb2f5c65f79b67321a0112b749c.js": "/icarus612/react-icarus/precache-manifest.dbd67eb2f5c65f79b67321a0112b749c.js",
+    "service-worker.js": "/icarus612/react-icarus/service-worker.js",
+    "static/css/main.2f4637d1.chunk.css.map": "/icarus612/react-icarus/static/css/main.2f4637d1.chunk.css.map",
+    "static/media/application.css": "/icarus612/react-icarus/static/media/bg9.3524e413.jpg"
+  }
+}

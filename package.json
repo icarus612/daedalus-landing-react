@@ -35,12 +35,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icarus612/react-icarus.git"
+    "url": "git+https://github.com/icarus612/daedalus-landing-react.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/icarus612/react-icarus/issues"
+    "url": "https://github.com/icarus612/daedalus-landing-react/issues"
   },
-  "homepage": "https://github.com/icarus612/react-icarus#readme"
+  "homepage": "https://github.com/icarus612/daedalus-landing-react#readme"
 }

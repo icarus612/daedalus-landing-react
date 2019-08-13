@@ -1,28 +1,29 @@
 import React from 'react';
-export default class Card extends React.Component {
-    constructor(props){
-        super(props);
+const Card = (props) => {
+
+
         this.state = {
-            classNames: [`throbber-inner ${this.props.pulsar}`]
+            classes = ['throbber-inner', props.pulsar]
         }
-    }
-    render(){
+    
+
         return (
             <div className="col-7 step">
                 <div className="throbber">
-                    <div className={this.state.classNames}></div>
+                    <div className={classNames.join(' ')}></div>
                 </div>
                 <div>
                     <h4 className="description">
-                        {this.props.title}
+                        {props.title}
                     </h4>
 
                     <p className="description">
-                        {this.props.description}
+                        {props.description}
                     </p>
                 </div>
             </div>
         )
-    }
+    
     
 }
+export default Card;

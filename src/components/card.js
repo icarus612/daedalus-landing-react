@@ -1,11 +1,10 @@
 import React from 'react';
 const Card = (props) => {
 
-        let classes = ['throbber-inner', props.pulsar];    
         return (
             <div className="col-7 step">
                 <div className="throbber">
-                    <div className={classes.join(' ')}></div>
+                    <div className={props.pulsar}></div>
                 </div>
                 <div>
                     <h4 className="description">

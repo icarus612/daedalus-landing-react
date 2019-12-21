@@ -1,6 +1,5 @@
 import React from 'react';
 const Card = (props) => {
-
         return (
             <div className="col-7 step">
                 <div className="throbber">
@@ -17,7 +16,5 @@ const Card = (props) => {
                 </div>
             </div>
         )
-    
-    
 }
 export default Card;
